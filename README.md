@@ -1,4 +1,3 @@
-# odin-recipes
 # HTML Recipes
 ## This project was created as a part of [The Odin Project](https://www.theodinproject.com/) curriculum
 
