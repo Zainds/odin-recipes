@@ -18,3 +18,17 @@ ol li::marker{
 .home{
     font-weight: bold;
 }
+
+.container{
+    width: 300px;
+    text-align: c;
+    margin: 0 auto;
+    text-align: center;
+    padding: 8px;
+    background-color: rgb(241, 247, 248);
+}
+.container li, .container h1{
+    background-color: rgb(217, 248, 254);
+    padding: 5px;
+    margin-bottom: 8px;
+}
